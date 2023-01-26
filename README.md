@@ -1,4 +1,6 @@
-### Hi there 👋
+## Olá pessoal, sejam bem vindos ao meu GitHub 👋
+
+ Meu nome é Raphael Cardoso, sou programador Trainee na empresa Benner e aqui é onde pratico meus estudos, aprendizado e publico alguns projetos.
 
 <!--
 **RaphaelCardoso123/RaphaelCardoso123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
