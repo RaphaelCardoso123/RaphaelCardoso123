@@ -16,11 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="display: inline_block"><br>
 
-  <img id="c-sharp" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
-  <img id="javascript" height="50" width="50" src="https://logodix.com/logo/374728.png">
-  <img id="html" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png">
-  <img id="css" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
- 
-</div>
