@@ -7,6 +7,10 @@
     <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RaphaelCardoso123&layout=compact&langs_count=7&theme=gotham"/>
   </div>
 
+ <a href="https://www.linkedin.com/in/raphaelcardosolink/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+ </a>
+ 
 <!--
 **RaphaelCardoso123/RaphaelCardoso123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
