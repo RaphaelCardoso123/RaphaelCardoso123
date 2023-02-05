@@ -4,7 +4,7 @@
 
   <div align="center">
     <a href="https://github.com/RaphaelCardoso123">
-    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RaphaelCardoso123&layout=compact&langs_count=7&theme=gotham"/>
+    <img height="100em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RaphaelCardoso123&layout=compact&langs_count=7&theme=gotham"/>
   </div>
 
 <!--
