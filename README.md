@@ -8,7 +8,7 @@
   </div>
  
  <a href="https://www.benner.com.br/">
-  <img align="left" alt="Abhishek's BENNER" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/unnamed.svg" />
+  <img align="left" alt="Abhishek's BENNER" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/benner.svg" />
 </a>
 
  <a href="https://www.linkedin.com/in/raphaelcardosolink/">
