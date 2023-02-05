@@ -1,4 +1,4 @@
-## Olá pessoal, sejam bem vindos ao meu GitHub 👋
+## Olá pessoal, sejam bem vindos ao meu GitHub 
 
  Meu nome é Raphael Cardoso, sou programador Trainee na empresa Benner e aqui é onde pratico meus estudos, aprendizado e publico alguns projetos.
 
