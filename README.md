@@ -6,10 +6,7 @@
     <a href="https://github.com/RaphaelCardoso123">
     <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RaphaelCardoso123&layout=compact&langs_count=7&theme=gotham"/>
   </div>
- 
- <a href="https://www.benner.com.br/">
-  <img align="left" alt="Abhishek's BENNER" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/benner.svg" />
-</a>
+
 
  <a href="https://www.linkedin.com/in/raphaelcardosolink/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
