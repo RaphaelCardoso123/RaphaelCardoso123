@@ -3,11 +3,16 @@
  Meu nome é Raphael Cardoso, sou programador Trainee na empresa Benner e aqui é onde pratico meus estudos, aprendizado e publico alguns projetos.
 
 
-<div align="center">
-    <a href="https://github.com/RaphaelCardoso123">
-    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RaphaelCardoso123&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RaphaelCardoso123&layout=compact&langs_count=7&theme=radical"/>
-  </div>
+  
+  <div align="center">
+  <a href="https://github.com/RaphaelCardoso123">
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=RaphaelCardoso123
+&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelCardoso123
+&layout=compact&langs_count=7&theme=transparent"/>
+</div>
+  
+  
 <!--
 **RaphaelCardoso123/RaphaelCardoso123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
